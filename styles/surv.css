@@ -1,0 +1,15 @@
+#mun
+{
+   font-weight: bold;
+}
+
+#survey
+{
+    position: absolute;
+    left: 35%;
+}
+
+table, th, td
+{
+    border: 1px solid;
+}
